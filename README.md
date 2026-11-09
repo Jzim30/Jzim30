@@ -1,6 +1,10 @@
-## Hi there 👋
+<!--Joaocybervitor
 
-<!--
+Estudante do técnico em Informática; em 2027, começo ADS. Tenho interesse em tecnologia, desenvolvimento, edição de vídeo e criação de conteúdo.
+
+Em projetos em grupo, atuei como Dev 2 e analista. No nosso Bibliopro, também fui designer gráfico.
+
+Instagram: [@jv.guimaraees](https://www.instagram.com/jv.guimaraees/)
 **Jzim30/Jzim30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
